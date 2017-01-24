@@ -8,4 +8,7 @@ text_file.write("\n" + "bla bla bla bla")
 text_file.write("\n" + "bla bla bla bla")
 text_file.write("\n" + "bla bla bla bla")
 
+text_file=open("text.txt", "r")
+print(text_file.read())
+text_file.close()
 
