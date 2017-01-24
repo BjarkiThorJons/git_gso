@@ -1,0 +1,1 @@
+#Git texta python verkefni
